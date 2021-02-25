@@ -1,0 +1,22 @@
+{
+  "name": "react-native-csv-example",
+  "displayName": "Csv Example",
+  "expo": {
+    "name": "react-native-csv-example",
+    "slug": "react-native-csv-example",
+    "description": "Example app for react-native-csv",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
